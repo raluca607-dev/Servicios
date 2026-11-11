@@ -1,0 +1,15 @@
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Multihilo\bin\Debug\net10.0\Multihilo.exe
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Multihilo\bin\Debug\net10.0\Multihilo.deps.json
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Multihilo\bin\Debug\net10.0\Multihilo.runtimeconfig.json
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Multihilo\bin\Debug\net10.0\Multihilo.dll
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Multihilo\bin\Debug\net10.0\Multihilo.pdb
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Multihilo\obj\Debug\net10.0\Multihilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Multihilo\obj\Debug\net10.0\Multihilo.AssemblyInfoInputs.cache
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Multihilo\obj\Debug\net10.0\Multihilo.AssemblyInfo.cs
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Multihilo\obj\Debug\net10.0\Multihilo.csproj.CoreCompileInputs.cache
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Multihilo\obj\Debug\net10.0\Multihilo.dll
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Multihilo\obj\Debug\net10.0\refint\Multihilo.dll
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Multihilo\obj\Debug\net10.0\Multihilo.pdb
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Multihilo\obj\Debug\net10.0\Multihilo.genruntimeconfig.cache
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Multihilo\obj\Debug\net10.0\ref\Multihilo.dll
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Multihilo\obj\Debug\net10.0\Multihilo.csproj.Up2Date

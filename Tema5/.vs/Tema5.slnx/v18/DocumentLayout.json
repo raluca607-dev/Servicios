@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SERVICIOS\\Tema5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC416360-1F6F-44AE-A984-19978B808BC9}|Ejercicio3\\Ejercicio3.csproj|f:\\servicios\\tema5\\ejercicio3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC416360-1F6F-44AE-A984-19978B808BC9}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC416360-1F6F-44AE-A984-19978B808BC9}|Ejercicio3\\Ejercicio3.csproj|f:\\servicios\\tema5\\ejercicio3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC416360-1F6F-44AE-A984-19978B808BC9}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31528375-48A8-467A-9933-D2C2902E0DA5}|Ejercicio2\\Ejercicio2.csproj|f:\\servicios\\tema5\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31528375-48A8-467A-9933-D2C2902E0DA5}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31528375-48A8-467A-9933-D2C2902E0DA5}|Ejercicio2\\Ejercicio2.csproj|f:\\servicios\\tema5\\ejercicio2\\caballo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31528375-48A8-467A-9933-D2C2902E0DA5}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\caballo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 372,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\SERVICIOS\\Tema5\\Ejercicio3\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Form1.cs",
+              "ToolTip": "F:\\SERVICIOS\\Tema5\\Ejercicio3\\Form1.cs",
+              "RelativeToolTip": "Ejercicio3\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:23:45.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\SERVICIOS\\Tema5\\Ejercicio3\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Form1.cs",
+              "ToolTip": "F:\\SERVICIOS\\Tema5\\Ejercicio3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio3\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T20:19:12.111Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Caballo.cs",
+              "DocumentMoniker": "F:\\SERVICIOS\\Tema5\\Ejercicio2\\Caballo.cs",
+              "RelativeDocumentMoniker": "Ejercicio2\\Caballo.cs",
+              "ToolTip": "F:\\SERVICIOS\\Tema5\\Ejercicio2\\Caballo.cs",
+              "RelativeToolTip": "Ejercicio2\\Caballo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T12:35:26.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SERVICIOS\\Tema5\\Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio2\\Program.cs",
+              "ToolTip": "F:\\SERVICIOS\\Tema5\\Ejercicio2\\Program.cs",
+              "RelativeToolTip": "Ejercicio2\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T08:43:14.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
