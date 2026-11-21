@@ -1,0 +1,16 @@
+F:\SERVICIOS\Tema5\Ejercicio5\bin\Debug\net10.0\Ejercicio5.exe
+F:\SERVICIOS\Tema5\Ejercicio5\bin\Debug\net10.0\Ejercicio5.deps.json
+F:\SERVICIOS\Tema5\Ejercicio5\bin\Debug\net10.0\Ejercicio5.runtimeconfig.json
+F:\SERVICIOS\Tema5\Ejercicio5\bin\Debug\net10.0\Ejercicio5.runtimeconfig.dev.json
+F:\SERVICIOS\Tema5\Ejercicio5\bin\Debug\net10.0\Ejercicio5.dll
+F:\SERVICIOS\Tema5\Ejercicio5\bin\Debug\net10.0\Ejercicio5.pdb
+F:\SERVICIOS\Tema5\Ejercicio5\obj\Debug\net10.0\Ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+F:\SERVICIOS\Tema5\Ejercicio5\obj\Debug\net10.0\Ejercicio5.AssemblyInfoInputs.cache
+F:\SERVICIOS\Tema5\Ejercicio5\obj\Debug\net10.0\Ejercicio5.AssemblyInfo.cs
+F:\SERVICIOS\Tema5\Ejercicio5\obj\Debug\net10.0\Ejercicio5.csproj.CoreCompileInputs.cache
+F:\SERVICIOS\Tema5\Ejercicio5\obj\Debug\net10.0\Ejercicio5.dll
+F:\SERVICIOS\Tema5\Ejercicio5\obj\Debug\net10.0\refint\Ejercicio5.dll
+F:\SERVICIOS\Tema5\Ejercicio5\obj\Debug\net10.0\Ejercicio5.pdb
+F:\SERVICIOS\Tema5\Ejercicio5\obj\Debug\net10.0\Ejercicio5.genruntimeconfig.cache
+F:\SERVICIOS\Tema5\Ejercicio5\obj\Debug\net10.0\ref\Ejercicio5.dll
+F:\SERVICIOS\Tema5\Ejercicio5\obj\Debug\net10.0\Ejercicio5.csproj.Up2Date

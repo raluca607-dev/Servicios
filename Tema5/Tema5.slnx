@@ -3,5 +3,6 @@
   <Project Path="Ejercicio2/Ejercicio2.csproj" Id="31528375-48a8-467a-9933-d2c2902e0da5" />
   <Project Path="Ejercicio3/Ejercicio3.csproj" Id="fc416360-1f6f-44ae-a984-19978b808bc9" />
   <Project Path="Ejercicio4/Ejercicio4.csproj" Id="782c9744-3adf-403f-aad2-a2ac37adbfbe" />
+  <Project Path="Ejercicio5/Ejercicio5.csproj" Id="02fc3285-74d2-4661-aa5c-c6187b7288d6" />
   <Project Path="Multihilo/Multihilo.csproj" />
 </Solution>

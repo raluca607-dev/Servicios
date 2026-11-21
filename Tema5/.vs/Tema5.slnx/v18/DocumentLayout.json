@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\SERVICIOS\\Tema5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{02FC3285-74D2-4661-AA5C-C6187B7288D6}|Ejercicio5\\Ejercicio5.csproj|f:\\servicios\\tema5\\ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FC3285-74D2-4661-AA5C-C6187B7288D6}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{782C9744-3ADF-403F-AAD2-A2AC37ADBFBE}|Ejercicio4\\Ejercicio4.csproj|F:\\SERVICIOS\\Tema5\\ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{782C9744-3ADF-403F-AAD2-A2AC37ADBFBE}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,12 +31,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SERVICIOS\\Tema5\\Ejercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\Program.cs",
+              "ToolTip": "F:\\SERVICIOS\\Tema5\\Ejercicio5\\Program.cs",
+              "RelativeToolTip": "Ejercicio5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwEIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T19:26:57.132Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "F:\\SERVICIOS\\Tema5\\Ejercicio4\\Form1.cs",
               "RelativeDocumentMoniker": "Ejercicio4\\Form1.cs",
               "ToolTip": "F:\\SERVICIOS\\Tema5\\Ejercicio4\\Form1.cs",
               "RelativeToolTip": "Ejercicio4\\Form1.cs",
-              "ViewState": "AgIAANMAAAAAAAAAAAAQwBgAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-20T16:45:59.332Z",
               "EditorCaption": "",
@@ -40,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "F:\\SERVICIOS\\Tema5\\Ejercicio4\\Form1.cs",
               "RelativeDocumentMoniker": "Ejercicio4\\Form1.cs",

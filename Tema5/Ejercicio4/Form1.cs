@@ -84,6 +84,7 @@ namespace Ejercicio4
 
         private string BuscaPalabra(string ruta, string cadena)
         {
+
             string contenido = "";
             int cont = 0;
             try
