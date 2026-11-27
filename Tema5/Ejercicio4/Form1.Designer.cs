@@ -28,15 +28,16 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.txtUrl = new System.Windows.Forms.TextBox();
             this.btnBusqueda = new System.Windows.Forms.Button();
             this.txtCadena = new System.Windows.Forms.TextBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.btnHttp = new System.Windows.Forms.Button();
+            this.btnPosicion = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.listResultado = new System.Windows.Forms.ListBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.btnPosicion = new System.Windows.Forms.Button();
-            this.btnHttp = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -77,6 +78,26 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Búsqueda";
             // 
+            // btnHttp
+            // 
+            this.btnHttp.Location = new System.Drawing.Point(168, 45);
+            this.btnHttp.Name = "btnHttp";
+            this.btnHttp.Size = new System.Drawing.Size(53, 23);
+            this.btnHttp.TabIndex = 4;
+            this.btnHttp.Text = "HTTP";
+            this.btnHttp.UseVisualStyleBackColor = true;
+            this.btnHttp.Click += new System.EventHandler(this.btnHttp_Click);
+            // 
+            // btnPosicion
+            // 
+            this.btnPosicion.Location = new System.Drawing.Point(87, 45);
+            this.btnPosicion.Name = "btnPosicion";
+            this.btnPosicion.Size = new System.Drawing.Size(75, 23);
+            this.btnPosicion.TabIndex = 3;
+            this.btnPosicion.Text = "Posición";
+            this.btnPosicion.UseVisualStyleBackColor = true;
+            this.btnPosicion.Click += new System.EventHandler(this.btnPosicion_Click);
+            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -104,26 +125,6 @@
             this.label2.TabIndex = 6;
             this.label2.Text = "Usar palabra \"gato\" para las prubeas, en la carpeta de textos";
             // 
-            // btnPosicion
-            // 
-            this.btnPosicion.Location = new System.Drawing.Point(87, 45);
-            this.btnPosicion.Name = "btnPosicion";
-            this.btnPosicion.Size = new System.Drawing.Size(75, 23);
-            this.btnPosicion.TabIndex = 3;
-            this.btnPosicion.Text = "Posición";
-            this.btnPosicion.UseVisualStyleBackColor = true;
-            this.btnPosicion.Click += new System.EventHandler(this.btnPosicion_Click);
-            // 
-            // btnHttp
-            // 
-            this.btnHttp.Location = new System.Drawing.Point(168, 45);
-            this.btnHttp.Name = "btnHttp";
-            this.btnHttp.Size = new System.Drawing.Size(53, 23);
-            this.btnHttp.TabIndex = 4;
-            this.btnHttp.Text = "HTTP";
-            this.btnHttp.UseVisualStyleBackColor = true;
-            this.btnHttp.Click += new System.EventHandler(this.btnHttp_Click);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -134,8 +135,9 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.txtUrl);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Ejercicio6";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);

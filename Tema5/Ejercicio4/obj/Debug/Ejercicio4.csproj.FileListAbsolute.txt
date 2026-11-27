@@ -8,3 +8,13 @@ F:\SERVICIOS\Tema5\Ejercicio4\bin\Debug\Ejercicio4.exe
 F:\SERVICIOS\Tema5\Ejercicio4\bin\Debug\Ejercicio4.pdb
 F:\SERVICIOS\Tema5\Ejercicio4\obj\Debug\Ejercicio4.exe
 F:\SERVICIOS\Tema5\Ejercicio4\obj\Debug\Ejercicio4.pdb
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Ejercicio4\obj\Debug\Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Ejercicio4\obj\Debug\Ejercicio4.Form1.resources
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Ejercicio4\obj\Debug\Ejercicio4.Properties.Resources.resources
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Ejercicio4\obj\Debug\Ejercicio4.csproj.GenerateResource.cache
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\Raluca\Desktop\SERVICIOS\Tema5\Ejercicio4\obj\Debug\Ejercicio4.pdb

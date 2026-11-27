@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\SERVICIOS\\Tema5\\",
+  "WorkspaceRootPath": "C:\\Users\\Raluca\\Desktop\\SERVICIOS\\Tema5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02FC3285-74D2-4661-AA5C-C6187B7288D6}|Ejercicio5\\Ejercicio5.csproj|f:\\servicios\\tema5\\ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02FC3285-74D2-4661-AA5C-C6187B7288D6}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F6A62DF-0B95-4522-876A-5AE051B75CF2}|Ejercicio6\\Ejercicio6.csproj|c:\\users\\raluca\\desktop\\servicios\\tema5\\ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6A62DF-0B95-4522-876A-5AE051B75CF2}|Ejercicio6\\Ejercicio6.csproj|solutionrelative:ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{782C9744-3ADF-403F-AAD2-A2AC37ADBFBE}|Ejercicio4\\Ejercicio4.csproj|F:\\SERVICIOS\\Tema5\\ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{782C9744-3ADF-403F-AAD2-A2AC37ADBFBE}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{782C9744-3ADF-403F-AAD2-A2AC37ADBFBE}|Ejercicio4\\Ejercicio4.csproj|F:\\SERVICIOS\\Tema5\\ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{782C9744-3ADF-403F-AAD2-A2AC37ADBFBE}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\raluca\\desktop\\servicios\\tema5\\ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{782C9744-3ADF-403F-AAD2-A2AC37ADBFBE}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782C9744-3ADF-403F-AAD2-A2AC37ADBFBE}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\raluca\\desktop\\servicios\\tema5\\ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782C9744-3ADF-403F-AAD2-A2AC37ADBFBE}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 372,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,44 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\SERVICIOS\\Tema5\\Ejercicio5\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio5\\Program.cs",
-              "ToolTip": "F:\\SERVICIOS\\Tema5\\Ejercicio5\\Program.cs",
-              "RelativeToolTip": "Ejercicio5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwEIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-20T19:26:57.132Z",
-              "EditorCaption": "",
-              "OwnerCaption": "%2"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "F:\\SERVICIOS\\Tema5\\Ejercicio4\\Form1.cs",
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Raluca\\Desktop\\SERVICIOS\\Tema5\\Ejercicio4\\Form1.cs",
               "RelativeDocumentMoniker": "Ejercicio4\\Form1.cs",
-              "ToolTip": "F:\\SERVICIOS\\Tema5\\Ejercicio4\\Form1.cs",
-              "RelativeToolTip": "Ejercicio4\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Raluca\\Desktop\\SERVICIOS\\Tema5\\Ejercicio4\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio4\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-20T16:45:59.332Z",
-              "EditorCaption": "",
-              "OwnerCaption": "%2"
+              "WhenOpened": "2026-11-27T12:08:00.318Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "F:\\SERVICIOS\\Tema5\\Ejercicio4\\Form1.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Raluca\\Desktop\\SERVICIOS\\Tema5\\Ejercicio4\\Form1.cs",
               "RelativeDocumentMoniker": "Ejercicio4\\Form1.cs",
-              "ToolTip": "F:\\SERVICIOS\\Tema5\\Ejercicio4\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Ejercicio4\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Raluca\\Desktop\\SERVICIOS\\Tema5\\Ejercicio4\\Form1.cs",
+              "RelativeToolTip": "Ejercicio4\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-20T16:27:54.431Z",
-              "EditorCaption": " [Dise\u00F1o]",
-              "OwnerCaption": "%2"
+              "WhenOpened": "2026-11-27T12:06:56.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Raluca\\Desktop\\SERVICIOS\\Tema5\\Ejercicio6\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio6\\Program.cs",
+              "ToolTip": "C:\\Users\\Raluca\\Desktop\\SERVICIOS\\Tema5\\Ejercicio6\\Program.cs",
+              "RelativeToolTip": "Ejercicio6\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAqwCkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T14:09:57.451Z",
+              "EditorCaption": ""
             }
           ]
         }

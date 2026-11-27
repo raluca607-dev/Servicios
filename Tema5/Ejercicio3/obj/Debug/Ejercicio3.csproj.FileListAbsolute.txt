@@ -1,0 +1,10 @@
+F:\SERVICIOS\Tema5\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+F:\SERVICIOS\Tema5\Ejercicio3\bin\Debug\Ejercicio3.exe
+F:\SERVICIOS\Tema5\Ejercicio3\bin\Debug\Ejercicio3.pdb
+F:\SERVICIOS\Tema5\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+F:\SERVICIOS\Tema5\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+F:\SERVICIOS\Tema5\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+F:\SERVICIOS\Tema5\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+F:\SERVICIOS\Tema5\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+F:\SERVICIOS\Tema5\Ejercicio3\obj\Debug\Ejercicio3.exe
+F:\SERVICIOS\Tema5\Ejercicio3\obj\Debug\Ejercicio3.pdb

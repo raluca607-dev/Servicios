@@ -14,6 +14,7 @@
             int seguir = 0;
             do
             {
+                Console.Clear();
                 terminado = false;
                 ganador = 0;
                 do
@@ -79,7 +80,7 @@
                     if (!terminado)
                     {
                         caballo.Posicion += r.Next(1, 5);
-                        Console.Clear();
+                        
                         for (int i = 0; i < 5; i++)
                         {
 

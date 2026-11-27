@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\raluc\\.nuget\\packages\\": {}
+    "C:\\Users\\Raluca\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\SERVICIOS\\Tema5\\Multihilo\\Multihilo.csproj",
+      "projectUniqueName": "C:\\Users\\Raluca\\Desktop\\SERVICIOS\\Tema5\\Multihilo\\Multihilo.csproj",
       "projectName": "Multihilo",
-      "projectPath": "F:\\SERVICIOS\\Tema5\\Multihilo\\Multihilo.csproj",
-      "packagesPath": "C:\\Users\\raluc\\.nuget\\packages\\",
-      "outputPath": "F:\\SERVICIOS\\Tema5\\Multihilo\\obj\\",
+      "projectPath": "C:\\Users\\Raluca\\Desktop\\SERVICIOS\\Tema5\\Multihilo\\Multihilo.csproj",
+      "packagesPath": "C:\\Users\\Raluca\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Raluca\\Desktop\\SERVICIOS\\Tema5\\Multihilo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\raluc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Raluca\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -47,7 +47,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "11.0.100"
+      "SdkAnalysisLevel": "10.0.400"
     },
     "frameworks": {
       "net10.0": {
@@ -69,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.404/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

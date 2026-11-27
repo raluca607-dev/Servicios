@@ -1,0 +1,16 @@
+F:\SERVICIOS\Tema5\PruebaExamen\bin\Debug\net10.0\PruebaExamen.exe
+F:\SERVICIOS\Tema5\PruebaExamen\bin\Debug\net10.0\PruebaExamen.deps.json
+F:\SERVICIOS\Tema5\PruebaExamen\bin\Debug\net10.0\PruebaExamen.runtimeconfig.json
+F:\SERVICIOS\Tema5\PruebaExamen\bin\Debug\net10.0\PruebaExamen.runtimeconfig.dev.json
+F:\SERVICIOS\Tema5\PruebaExamen\bin\Debug\net10.0\PruebaExamen.dll
+F:\SERVICIOS\Tema5\PruebaExamen\bin\Debug\net10.0\PruebaExamen.pdb
+F:\SERVICIOS\Tema5\PruebaExamen\obj\Debug\net10.0\PruebaExamen.GeneratedMSBuildEditorConfig.editorconfig
+F:\SERVICIOS\Tema5\PruebaExamen\obj\Debug\net10.0\PruebaExamen.AssemblyInfoInputs.cache
+F:\SERVICIOS\Tema5\PruebaExamen\obj\Debug\net10.0\PruebaExamen.AssemblyInfo.cs
+F:\SERVICIOS\Tema5\PruebaExamen\obj\Debug\net10.0\PruebaExamen.csproj.CoreCompileInputs.cache
+F:\SERVICIOS\Tema5\PruebaExamen\obj\Debug\net10.0\PruebaExamen.dll
+F:\SERVICIOS\Tema5\PruebaExamen\obj\Debug\net10.0\refint\PruebaExamen.dll
+F:\SERVICIOS\Tema5\PruebaExamen\obj\Debug\net10.0\PruebaExamen.pdb
+F:\SERVICIOS\Tema5\PruebaExamen\obj\Debug\net10.0\PruebaExamen.genruntimeconfig.cache
+F:\SERVICIOS\Tema5\PruebaExamen\obj\Debug\net10.0\ref\PruebaExamen.dll
+F:\SERVICIOS\Tema5\PruebaExamen\obj\Debug\net10.0\PruebaEx.D1475B43.Up2Date

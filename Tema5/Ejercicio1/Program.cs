@@ -6,6 +6,8 @@
         {
             //Thread suma = new Thread(incrementar);
             //Thread resta = new Thread(decrementar);
+
+
             Thread suma = new Thread(() =>
             {
                 while (!terminado)

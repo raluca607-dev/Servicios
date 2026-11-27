@@ -4,5 +4,8 @@
   <Project Path="Ejercicio3/Ejercicio3.csproj" Id="fc416360-1f6f-44ae-a984-19978b808bc9" />
   <Project Path="Ejercicio4/Ejercicio4.csproj" Id="782c9744-3adf-403f-aad2-a2ac37adbfbe" />
   <Project Path="Ejercicio5/Ejercicio5.csproj" Id="02fc3285-74d2-4661-aa5c-c6187b7288d6" />
+  <Project Path="Ejercicio6/Ejercicio6.csproj" Id="8f6a62df-0b95-4522-876a-5ae051b75cf2" />
   <Project Path="Multihilo/Multihilo.csproj" />
+  <Project Path="PruebaExamen/PruebaExamen.csproj" Id="28aaec20-c136-49b3-bea7-87ed3f23474c" />
+  <Project Path="PruebaExamen2/PruebaExamen2.csproj" Id="f5bd639f-1a3b-4351-bbc8-00d98f4cd125" />
 </Solution>
